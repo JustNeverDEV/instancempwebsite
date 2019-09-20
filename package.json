@@ -1,0 +1,29 @@
+{
+    "name": "instancempwebsite",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/JustNeverDEV/instancempwebsite.git"
+    },
+    "keywords": [
+        "web",
+        "instance",
+        "mp",
+        "bot",
+        "discord"
+    ],
+    "author": "JustNever",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/JustNeverDEV/instancempwebsite/issues"
+    },
+    "homepage": "https://github.com/JustNeverDEV/instancempwebsite#readme",
+    "dependencies": {
+
+    }
+}
